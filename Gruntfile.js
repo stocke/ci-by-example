@@ -14,6 +14,6 @@ module.exports = function (grunt) {
 
   grunt.loadNpmTasks('grunt-contrib-jshint');
 
-  // tasks to run on the CI platform
+  // tasks to run on the CI
   grunt.registerTask('ci', ['jshint']);
 };

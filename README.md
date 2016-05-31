@@ -4,7 +4,7 @@ _This repository is part of the **JavaScript Application Design: A Build First A
 
 This tutorial is part of the code samples accompanying the book [in _Chapter 4_][6], about the release flow, deployments, and hosted application monitoring.
 
-### Introduction
+### Introductions
 
 Setting up CI is _almost trivial_ in this day and age. In this repository we'll learn how to get ourselves up and running with Travis-CI. The first thing we'll need to do, is create a `.travis.yml` file at the project root. In this example, the file looks like:
 
